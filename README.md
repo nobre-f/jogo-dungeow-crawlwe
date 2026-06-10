@@ -59,4 +59,3 @@ Para a realização deste projeto de introdução à programação, foi utilizad
 1.Revisionamento do código.
 2.Clean Code.
 3.Resolução de problemas que não conseguimos resolver usando a lógica.
-Toda a lógica de matrizes, movimentação bidimensional, laços de repetição (`while`, `for`) e condicionais (`if/else`) gerada e revisada pela IA serviu estritamente como ferramenta de apoio pedagógico para consolidar o aprendizado prático da equipe sobre os fundamentos da Ciência da Computação.
