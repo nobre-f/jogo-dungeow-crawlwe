@@ -56,9 +56,7 @@ Os comandos devem ser digitados utilizando as teclas correspondentes no teclado 
 
 Para a realização deste projeto de introdução à programação, foi utilizada a Inteligência Artificial generativa (modelo Gemini da Google) com os seguintes objetivos:
 
-1. **Refatoração e Simplificação de Código:** O código original utilizava conceitos avançados de programação como *Ponteiros* (`*`) e *Estruturas de Dados* (`struct`), tópicos ainda não dominados por estudantes calouros. A IA auxiliou na reestruturação de toda a lógica para dentro da função principal (`main`), eliminando a complexidade sintática e tornando o fluxo linear.
-2. **Didática e Legibilidade:** Auxílio na renomeação de variáveis curtas e confusas (ex: de `pX`, `my_l`, `bz_hp`) para nomes autoexplicativos em português (ex: `jogadorX`, `monstroY_Linha`, `bossZ_Vida`), facilitando o estudo do código por parte da equipe.
-3. **Substituição de Lógica por Flags:** Apoio no desenvolvimento de uma lógica simplificada de reinicialização de fases baseada em uma variável de estado ("flag" `recomecarFaseDoZero`), substituindo rotinas complexas de alocação ou funções externas.
-4. **Documentação:** Auxílio na estruturação técnica e formatação deste arquivo de documentação (`README.md`).
-
+1.Revisionamento do código.
+2.Clean Code.
+3.Resolução de problemas que não conseguimos resolver usando a lógica.
 Toda a lógica de matrizes, movimentação bidimensional, laços de repetição (`while`, `for`) e condicionais (`if/else`) gerada e revisada pela IA serviu estritamente como ferramenta de apoio pedagógico para consolidar o aprendizado prático da equipe sobre os fundamentos da Ciência da Computação.
